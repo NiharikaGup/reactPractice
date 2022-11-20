@@ -28,5 +28,4 @@ files added
 
 git merge <branchName>
 
-Dev first commit
-Dev second commit
+DA-2 first commit
