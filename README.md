@@ -16,7 +16,7 @@ newBranch merge into dev
 nweBranch merge into staging
 newBranch merge into prod
 
-git oneline --decorate
+git log --oneline --decorate
 
 git reset --soft HEAD~2
 git push orign <branchName> -f
