@@ -27,3 +27,6 @@ files added
 23423423 text messgae
 
 git merge <branchName>
+
+Dev first commit
+Dev second commit
